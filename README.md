@@ -1,4 +1,5 @@
-🤖 AGENTE DE MARKETING AUTOMATIZADO - GRUPO #4
+🤖 AGENTE DE MARKETING AUTOMATIZADO - GRUPO #4 
+
 Este proyecto consiste en una aplicación multi-agente diseñada para automatizar la creación de propuestas comerciales de marketing personalizadas. Utiliza LangGraph para la orquestación de agentes inteligentes y Claude (Anthropic) como motor de lenguaje.
 
 
