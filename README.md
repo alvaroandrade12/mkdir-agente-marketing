@@ -4,6 +4,7 @@ Este proyecto consiste en una aplicación multi-agente diseñada para automatiza
 
 
 👥 Integrantes
+
 Álvaro Augusto Andrade Quesada
 
 Juan Pablo Ortega Vargas
@@ -13,6 +14,7 @@ Grupo: #4
 
 
 🚀 Descripción del Proyecto
+
 El sistema utiliza una arquitectura de cuatro agentes especializados que trabajan en cadena para transformar una idea de negocio en una propuesta comercial completa y profesional:
 
 Analista de Mercado: Realiza un análisis PEST y detecta puntos de dolor.
@@ -25,6 +27,7 @@ Editor Senior: Aplica una rúbrica de calidad PACT para el acabado final.
 
 
 🛠️ Stack Tecnológico
+
 Frontend: Streamlit para la interfaz de usuario.
 
 Orquestación: LangGraph para el flujo de trabajo multi-agente.
@@ -37,6 +40,7 @@ Lenguaje: Python 3.10+.
 
 
 📂 Estructura de Archivos Principal
+
 app.py: El corazón de la aplicación (Agentes + UI).
 
 .claude/: Configuraciones avanzadas para la asistencia de IA.
