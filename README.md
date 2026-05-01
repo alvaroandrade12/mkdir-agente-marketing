@@ -1,5 +1,6 @@
-🤖 Agente de Marketing Automatizado - Grupo #4
+🤖 AGENTE DE MARKETING AUTOMATIZADO - GRUPO #4
 Este proyecto consiste en una aplicación multi-agente diseñada para automatizar la creación de propuestas comerciales de marketing personalizadas. Utiliza LangGraph para la orquestación de agentes inteligentes y Claude (Anthropic) como motor de lenguaje.
+
 
 👥 Integrantes
 Álvaro Augusto Andrade Quesada
@@ -8,6 +9,7 @@ Juan Pablo Ortega Vargas
 
 Clase: Software de Automatización
 Grupo: #4
+
 
 🚀 Descripción del Proyecto
 El sistema utiliza una arquitectura de cuatro agentes especializados que trabajan en cadena para transformar una idea de negocio en una propuesta comercial completa y profesional:
@@ -20,6 +22,7 @@ Redactor Comercial: Estructura la propuesta bajo el framework StoryBrand.
 
 Editor Senior: Aplica una rúbrica de calidad PACT para el acabado final.
 
+
 🛠️ Stack Tecnológico
 Frontend: Streamlit para la interfaz de usuario.
 
@@ -30,6 +33,7 @@ LLM: Claude-3-5-Sonnet (vía LangChain Anthropic).
 Documentación: ReportLab para la generación de propuestas en PDF.
 
 Lenguaje: Python 3.10+.
+
 
 📂 Estructura de Archivos Principal
 app.py: El corazón de la aplicación (Agentes + UI).
